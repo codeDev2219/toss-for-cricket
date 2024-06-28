@@ -48,6 +48,7 @@ button:hover {
 }
 
 footer {
+    margin-top: 2em;
     position: static;
     bottom: 0;
 }
